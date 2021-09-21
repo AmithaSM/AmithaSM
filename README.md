@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amitha S M</h1>
 <h3 align="center">I'm currently pursuing Computer Science Engineering. I'm a highly motivated student with a goal driven work ethic. My objectives are to build skills and gain experience through different avenues to become a change maker and corporate leader, to be enterprising and dynamic in approach.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/2646423/screenshots/5507196/computer.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/2646423/screenshots/5507196/computer.gif"/>
 - 📫 How to reach me **amithasm15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
